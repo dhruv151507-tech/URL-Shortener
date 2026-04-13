@@ -1,0 +1,26 @@
+body {
+  background: #0a0a0f;
+  color: white;
+  font-family: monospace;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 40px;
+}
+.card {
+  background: #111118;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+input {
+  width: 70%;
+  padding: 10px;
+}
+button {
+  padding: 10px;
+}
+.error {
+  color: red;
+}
